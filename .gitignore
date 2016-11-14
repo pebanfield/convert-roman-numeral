@@ -3,6 +3,10 @@ logs
 *.log
 npm-debug.log*
 
+.DS_Store
+.idea/*
+.idea/vcs.xml
+
 # Runtime data
 pids
 *.pid
